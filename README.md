@@ -28,7 +28,7 @@ To get started, check out:
 
 ## Features
 
-* Created for Bootstrap 3 (Bootstrap 2 supported)
+* Created for Bootstrap 4, 3 (Bootstrap 2 supported)
 * Responsive web design
 * Scrollable Table with fixed headers
 * Fully configurable
